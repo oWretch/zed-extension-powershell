@@ -4,6 +4,7 @@
 
 # Rust generated files
 /target
+/Cargo.lock
 
 # Test extension.
 /*.ps1
